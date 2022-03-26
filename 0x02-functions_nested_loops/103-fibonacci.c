@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-	long int i, x = 1,y =2, sum, totalsum;
+	long int i, x = 1, y = 2, sum, totalsum;
 
-	for (i =0; i < 40; i++)
+	for (i = 0; i < 40; i++)
 	{
 		if ((y % 2 == 0) && (y <= 4000000))
 		{
