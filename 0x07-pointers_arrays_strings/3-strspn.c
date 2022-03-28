@@ -3,7 +3,7 @@
 /**
  * _strspn - gets the length of a prefix substring
  * @s: input string to search for substring
- * @accpet: char that prefix substring should include
+ * @accept: char that prefix substring should include
  * Return: length of the prefix string
  */
 unsigned int _strspn(char *s, char *accept)
